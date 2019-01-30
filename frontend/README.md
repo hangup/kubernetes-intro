@@ -4,7 +4,7 @@ This is the frontend of our CV application. The code is based on [Create React A
 
 **About the frontend**
  
-In addition of [react](https://facebook.github.io/react/) we have added : 
+In addition of [react](https://facebook.github.io/react/) we have added: 
  - [Redux](http://redux.js.org/): State controlling of the application 
  - [React bootstrap](https://react-bootstrap.github.io/components.html#page-layout): Used for simple boostrap styling
  
